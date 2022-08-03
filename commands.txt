@@ -1,0 +1,43 @@
+1. Create a test git repo with a file test.txt
+=> $ git init 
+=> $ git add .
+=> $ git remote .....
+=> $ git commit ..
+=> $ git push .. 
+
+
+
+2. create 2 branches from master: forest, beach:
+=> $ git checkout -b forest 
+=> $ git checkout -b beach
+
+
+3. list the local branches
+=> $ git branch
+
+
+4. add a new line to the test.txt file in the forest branch
+
+
+5. push each of the branches to the remote repository
+
+
+6. list all branches (local and remote)
+
+
+7. merge forest branch to the master
+
+
+8. update the origin: push the master
+
+
+9. delete the remote forest branch and the local one
+
+
+10. merge the master to the beach branch
+
+
+11. add a new line to the txt file in the beach branch
+
+
+12. push the beach branch the remote repository
